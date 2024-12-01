@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Fonction de tri à bulle (Bubble Sort)
+// Fonction de tri à bulle (Bubble_Sort)
 void bubbleSort(int arr[], int n) {
     int temp;
     for (int i = 0; i < n - 1; i++) {
