@@ -16,7 +16,7 @@ void bubbleSort(int arr[], int n) {
     }
 }
 
-// Fonction de tri par insertion (Insertion Sort)
+// Fonction de tri par insertion (Insertion_Sort)
 void insertionSort(int arr[], int n) {
     for (int i = 1; i < n; i++) {
         int key = arr[i];
